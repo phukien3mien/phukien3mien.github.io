@@ -8,6 +8,15 @@ Components: main
 Description: PK3M: 622/28 Cộng Hòa, P.13, Q.Tân Bình, TPHCM, Việt Nam. Zalo/Facebook: +84.939.333326 (chỉ hỗ trợ bán hàng). Cung cấp sim ghép, phụ kiện sạc, cáp, tai nghe, PDP, Pin Con Trâu, pin Pisen...Youtube Channel: https://www.youtube.com/c/PK3MChanel/Videos
 
 Origin: PK3M Supported
+Label: Kurrt
+Suite: stable
+Version: 1.60
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: PK3M: 622/28 Cộng Hòa, P.13, Q.Tân Bình, TPHCM, Việt Nam. Zalo/Facebook: +84.939.333326 (chỉ hỗ trợ bán hàng). Cung cấp sim ghép, phụ kiện sạc, cáp, tai nghe, PDP, Pin Con Trâu, pin Pisen...Youtube Channel: https://www.youtube.com/c/PK3MChanel/Videos
+
+Origin: PK3M Supported
 Label: ichitaso
 Suite: stable
 Version: 0.1-7

@@ -24,7 +24,8 @@ Name: SafeShutdown_1.60_Full
 Author: Kurrt
 Description: Hỗ trợ trong việc tắt nguồn tạm thời cho giải pháp Bypass iCloud miễn phí từ iOS 13.3 trở về sau. Lưu ý đừng để hết pin vì hết pin có phần mềm này cũng không làm được gì. Để tránh xung đột dẫn đến lỗi các bạn nên gỡ hết các bản SafeShutdown đã cài trước đó. Chúc thành công!
 
-Package: com.ichitaso.otadisabler_0.1-7
+Package: com.ichitaso.otadisabler
+Identifier: com.ichitaso.otadisabler
 Version: 0.1-7
 Section: System
 Maintainer: Nguyen Huu Cong (PK3M)
