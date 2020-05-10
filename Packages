@@ -23,3 +23,16 @@ MD5sum: 06a71b14c2e6fc5585d323d2cc118340
 Name: SafeShutdown_1.60_Full
 Author: Kurrt
 Description: Hỗ trợ trong việc tắt nguồn tạm thời cho giải pháp Bypass iCloud miễn phí từ iOS 13.3 trở về sau. Lưu ý đừng để hết pin vì hết pin có phần mềm này cũng không làm được gì. Để tránh xung đột dẫn đến lỗi các bạn nên gỡ hết các bản SafeShutdown đã cài trước đó. Chúc thành công!
+
+Package: com.ichitaso.otadisabler_0.1-7
+Version: 0.1-7
+Section: System
+Maintainer: Nguyen Huu Cong (PK3M)
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ichitaso.otadisabler_0.1-7_iphoneos-arm.deb
+Size: 24350
+MD5sum: f396c8ff22030f444031327ee35d8240
+Name: Otadisabler_0.1-7
+Author: ichitaso
+Description: Hỗ trợ chặn cập nhật iOS9 tới iOS 13.x. Trước tiên bắt buộc phải xoá phiên bản iOS mới đã được tải về trước đó trong Cài đặt – Cài đặt chung – Dung lượng iPhone [iPad]. Sau đó cài đặt OTAdisabler, nhấn nút respring sau khi cài xong. Chúc thành công!
