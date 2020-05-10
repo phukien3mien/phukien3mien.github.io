@@ -15,7 +15,7 @@ Package: com.safeshutdown_1.60_Full
 Version: 1.60
 Section: Tweaks
 Maintainer: Nguyen Huu Cong (PK3M)
-Depends: firmware (>= 10.0)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
 Filename: ./debs/safeshutdown_1.60_iphoneos-arm.deb
 Size: 9327236
