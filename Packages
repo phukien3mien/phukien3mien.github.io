@@ -11,7 +11,7 @@ Filename: ./debs/com.fakeios.pk3m.deb
 Size: 1796
 MD5sum: c8fff49bdf51c338f1a65adb281d76ce
 
-Package: safeshutdown_1.60_iphoneos-arm.deb
+Package: com.kurrt.safeshutdown
 Version: 1.60
 Section: Tweaks
 Maintainer: Nguyen Huu Cong (PK3M)
