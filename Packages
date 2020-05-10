@@ -11,15 +11,15 @@ Filename: ./debs/com.fakeios.pk3m.deb
 Size: 1796
 MD5sum: c8fff49bdf51c338f1a65adb281d76ce
 
-Package: com.kurrt.safeshutdown
+Package: com.safeshutdown_1.60_Full
 Version: 1.60
 Section: Tweaks
 Maintainer: Nguyen Huu Cong (PK3M)
-Depends:  mobilesubstrate, preferenceloader, firmware (>= 10.0), ws.hbang.common (>= 1.11)
+Depends: firmware (>= 10.0)
 Architecture: iphoneos-arm
 Filename: ./debs/safeshutdown_1.60_iphoneos-arm.deb
 Size: 9327236
 MD5sum: 06a71b14c2e6fc5585d323d2cc118340
-Name: SafeShutdown_1.60
+Name: SafeShutdown_1.60_Full
 Author: Kurrt
 Description: Avoid re-jailbreaking when battery runs out.
