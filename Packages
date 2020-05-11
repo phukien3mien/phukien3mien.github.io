@@ -44,7 +44,7 @@ Name: Activator
 Priority: optional
 Architecture: iphoneos-arm
 Description: Centralized gestures, button and shortcut management for iOS
-Homepage: https://rpetri.ch/cydia/activator/beta/
+Homepage: http://phukien3mien.net/
 Depiction: https://rpetri.ch/cydia/activator/beta/
 Maintainer: Nguyen Huu Cong (PK3M)
 Author: Ryan Petrich <rpetrich+activator@gmail.com>
