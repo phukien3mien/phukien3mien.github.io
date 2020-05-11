@@ -44,6 +44,9 @@ Version: 1.9.13~beta9
 Section: System
 Maintainer: Nguyen Huu Cong (PK3M)
 Depends: mobilesubstrate, preferenceloader, com.a3tweaks.flipswitch, com.rpetrich.rocketbootstrap
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Priority: optional
 Architecture: iphoneos-arm
 Filename: ./debs/com.rpetrich.activator_1.9.13_beta9_iphoneos-arm.deb
 Size: 884264
