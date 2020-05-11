@@ -13,6 +13,7 @@ MD5sum: c8fff49bdf51c338f1a65adb281d76ce
 
 Package: com.kurrt.safeshutdown
 Version: 1.60
+Priority: optional
 Section: Tweaks
 Maintainer: Nguyen Huu Cong (PK3M)
 Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), ws.hbang.common (>= 1.11)
@@ -20,7 +21,10 @@ Architecture: iphoneos-arm
 Filename: ./debs/safeshutdown_1.60_iphoneos-arm.deb
 Size: 9327236
 MD5sum: 06a71b14c2e6fc5585d323d2cc118340
+SHA1: 35c3fe1f7a59245d97c34806a3a4ac404ca31e07
+SHA256: 30ac7c322af44e27f627bb7eb6b65b74d2ee85a41b5ce0f07f895d2e102a1126
 Name: SafeShutdown_1.60_Full
+Icon: file:///Library/PreferenceBundles/SafeShutdownPrefs.bundle/icons/safeshutdown@2x.png
 Author: Kurrt
 Description: Hỗ trợ trong việc tắt nguồn tạm thời cho giải pháp Bypass iCloud miễn phí từ iOS 13.3 trở về sau. Lưu ý đừng để hết pin vì hết pin có phần mềm này cũng không làm được gì. Để tránh xung đột dẫn đến lỗi các bạn nên gỡ hết các bản SafeShutdown đã cài trước đó. Chúc thành công!
 
