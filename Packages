@@ -45,10 +45,9 @@ Priority: optional
 Architecture: iphoneos-arm
 Description: Centralized gestures, button and shortcut management for iOS
 Homepage: http://phukien3mien.net/
-Depiction: https://rpetri.ch/cydia/activator/beta/
+Depiction: https://www.youtube.com/c/PK3MChanel/Videos
 Maintainer: Nguyen Huu Cong (PK3M)
 Author: Ryan Petrich <rpetrich+activator@gmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
 Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
 Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
 Section: System
