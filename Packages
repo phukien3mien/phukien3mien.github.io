@@ -38,7 +38,7 @@ Name: Otadisabler_0.1-7
 Author: ichitaso
 Description: Hỗ trợ chặn cập nhật iOS9 tới iOS 13.x. Trước tiên bắt buộc phải xoá phiên bản iOS mới đã được tải về trước đó trong Cài đặt – Cài đặt chung – Dung lượng iPhone [iPad]. Sau đó cài đặt OTAdisabler, nhấn nút respring sau khi cài xong. Chúc thành công!
 
-Package: libactivator_1.9.13_beta9
+Package: com.rpetrich.activator_1.9.13_beta9
 Identifier: libactivator
 Version: 1.9.13~beta9
 Section: System
@@ -46,6 +46,7 @@ Maintainer: Nguyen Huu Cong (PK3M)
 Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~beta7), com.rpetrich.rocketbootstrap (>= 1.0.9)
 Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
 Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Priority: optional
 Architecture: iphoneos-arm
 Filename: ./debs/libactivator_1.9.13_beta9_iphoneos-arm.deb
 Size: 884264
