@@ -53,10 +53,75 @@ Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6),
 Section: System
 dev: rpetrich
 Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
-Version: 1.9.13~beta7
-Installed-Size: 5048
-Filename: ./debs/libactivator_1.9.13~beta7_iphoneos-arm.deb
-MD5sum: b539c213dad29638f9e6fbfb479b89d3
-SHA1: 484410a0d5ba9cc16a615a7185fae1ac4f7bd509
-SHA256: 10c412a1b921cd6e246dfc96f36118e2d6129a5187c32871307449db06f55586
-Size: 871670
+Version: 1.9.13~beta9
+Installed-Size: 4812
+Filename: ./debs/libactivator_1.9.13_beta9_iphoneos-arm.deb
+MD5sum: f4afbf2842d26bb91693d533aab85f7f
+SHA1: a40ea336b24634f4811045b9a7be8761ce455b2a
+SHA256: d6d2d528986beb2636dda2f775dfa277fc4f72bcfb087943b9b353b8aeb38d4f
+Size: 884264
+
+Package: com.a3tweaks.flipswitch
+Name: Flipswitch
+Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.9) | firmware (<< 7.0)
+Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch
+Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Architecture: iphoneos-arm
+Description: Centralized toggle system for iOS
+Homepage: https://rpetri.ch/cydia/flipswitch/beta/
+Depiction: https://rpetri.ch/cydia/flipswitch/beta/
+Author: rpetrich <rpetrich+flipswitch@gmail.com>
+Maintainer: rpetrich & a3tweaks <rpetrich+flipswitch@gmail.com>
+Section: System
+Tag: purpose::extension, role::developer
+Icon: file:///Applications/Preferences.app/icon-table.png
+dev: flipswitch
+Version: 1.0.16~beta7
+Installed-Size: 2408
+Filename: ./debs/com.a3tweaks.flipswitch_1.0.16_beta7_iphoneos-arm.deb
+MD5sum: 6907310f2ff7e34df9d81124be748ef1
+SHA1: cda8be690e90574ea677e2c9248730dad98bf869
+SHA256: 26367bc67a5c9eaf5f354070ef95b2a6748e485a11338082d324a6557231bde6
+Size: 297264
+
+Package: com.rpetrich.rocketbootstrap
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Name: RocketBootstrap
+Architecture: iphoneos-arm
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: rpetrich
+Tag: purpose::extension, role::developer
+Version: 1.0.9
+Installed-Size: 596
+Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.9_iphoneos-arm.deb
+MD5sum: 612e3c55752ee8cfc631e341c5618795
+SHA1: 6c2cb0c69f77b84090f76ebfa909bf64e40b11b9
+SHA256: 1f6aed403c557eec1ac93bdb2fc50fe5e9808f230783480ea488a2f42880642f
+Size: 37192
+
+Package: preferenceloader
+Name: PreferenceLoader
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: load preferences in style
+Maintainer: Dustin Howett <cydia.pl@relay.howett.net>
+Author: Dustin Howett <cydia.pl@relay.howett.net>
+Section: System
+dev: dustinhowett
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Tag: role::hacker, purpose::library
+Version: 2.2.4~beta1
+Installed-Size: 532
+Filename: ./debs/preferenceloader_2.2.4_beta1_iphoneos-arm.deb
+MD5sum: 61efed5a8aa8507208731da2d737c882
+SHA1: 5c180113d9fc6263cf30700a725dacb92b546218
+SHA256: d395cfb1d8dd56f984df50dc0db33746e3e1e72f311be5bad3f4235342b21b90
+Size: 33838
