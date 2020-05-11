@@ -50,7 +50,7 @@ Priority: optional
 Architecture: iphoneos-arm
 Filename: ./debs/libactivator_1.9.13_beta9_iphoneos-arm.deb
 Size: 884264
-MD5sum: f4afbf2842d26bb91693d533aab85f7f
+MD5sum: a40ea336b24634f4811045b9a7be8761ce455b2a
 Name: Activator
 Author: Ryan Petrich
 Description: Hỗ trợ trên iOS 13. Lưu ý: chỉ mới hỗ trợ chạy các máy từ A7- A11(5s-X).
