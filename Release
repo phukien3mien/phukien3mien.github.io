@@ -1,4 +1,4 @@
-Origin: PK3M Supported
+Origin: PK3M Support
 Label: Nguyen Huu Cong
 Suite: stable
 Version: 1.0
@@ -7,7 +7,7 @@ Architectures: iphoneos-arm
 Components: main
 Description: PK3M: 622/28 Cộng Hòa, P.13, Q.Tân Bình, TPHCM, Việt Nam. Zalo/Facebook: +84.939.333326 (chỉ hỗ trợ bán hàng). Cung cấp sim ghép, phụ kiện sạc, cáp, tai nghe, PDP, Pin Con Trâu, pin Pisen...Youtube Channel: https://www.youtube.com/c/PK3MChanel/Videos
 
-Origin: PK3M Supported
+Origin: PK3M Support
 Label: Kurrt
 Suite: stable
 Version: 1.60
@@ -16,7 +16,7 @@ Architectures: iphoneos-arm
 Components: main
 Description: PK3M: 622/28 Cộng Hòa, P.13, Q.Tân Bình, TPHCM, Việt Nam. Zalo/Facebook: +84.939.333326 (chỉ hỗ trợ bán hàng). Cung cấp sim ghép, phụ kiện sạc, cáp, tai nghe, PDP, Pin Con Trâu, pin Pisen...Youtube Channel: https://www.youtube.com/c/PK3MChanel/Videos
 
-Origin: PK3M Supported
+Origin: PK3M Support
 Label: ichitaso
 Suite: stable
 Version: 0.1-7
@@ -25,7 +25,7 @@ Architectures: iphoneos-arm
 Components: main
 Description: PK3M: 622/28 Cộng Hòa, P.13, Q.Tân Bình, TPHCM, Việt Nam. Zalo/Facebook: +84.939.333326 (chỉ hỗ trợ bán hàng). Cung cấp sim ghép, phụ kiện sạc, cáp, tai nghe, PDP, Pin Con Trâu, pin Pisen...Youtube Channel: https://www.youtube.com/c/PK3MChanel/Videos
 
-Origin: PK3M Supported
+Origin: PK3M Support
 Label: Ryan Petrich
 Suite: stable
 Version: 1.9.13~beta9
