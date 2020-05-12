@@ -15,6 +15,7 @@ Package: com.kurrt.safeshutdown
 Version: 1.60
 Priority: optional
 Section: Tweaks
+Icon: file:///Library/PreferenceBundles/SafeShutdownPrefs.bundle/icons/safeshutdown@2x.png
 Maintainer: Nguyen Huu Cong (PK3M)
 Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
