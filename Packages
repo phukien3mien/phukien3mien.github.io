@@ -1,5 +1,5 @@
 Package: com.fakeios.pk3m
-Name: Fake iOS active ICCID v1.0
+Name: Fake iOS Active ICCID v1.0
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Tweak giúp fake iOS 13.5 (beta 4) để active ICCID. Hướng dẫn như sau: 1. Jailbreak máy và install Cydia --> 2. Add source : pk3m.github.io --> 3. Vào source và install Tweak Fake iOS Active ICCID --> 4. Reboot và gắn sim ghép active ICCID --> 5. Jailbreak, open Cydia and remove Tweak --> 6.Reboot. Done.
@@ -132,7 +132,7 @@ SHA256: d395cfb1d8dd56f984df50dc0db33746e3e1e72f311be5bad3f4235342b21b90
 Size: 33838
 
 Package: com.pk3m.fakeios101
-Name: Fake iOS active ICCID v1.01
+Name: Fake iOS Active ICCID v1.01
 Version: 1.01
 Architecture: iphoneos-arm
 Description: Tweak giúp fake iOS 13.5 (final) để active ICCID. Hướng dẫn như sau: 1. Jailbreak máy và install Cydia --> 2. Add source : pk3m.github.io --> 3. Vào source và install Tweak Fake iOS Active ICCID --> 4. Reboot và gắn sim ghép active ICCID --> 5. Jailbreak, open Cydia and remove Tweak --> 6.Reboot. Done.
@@ -141,7 +141,7 @@ Section: System
 Depends: firmware (>= 10.0)
 Maintainer: Nguyen Huu Cong (PK3M)
 Filename: ./debs/com.pk3m.fakeios_1.01_135final.deb
-Size: 2836
-MD5sum: 86bfbea6b95a4dd55093ed07118af47f
-SHA1: 7936d6277d3278d0ad8011a939b9eabde12826a7
-SHA256: 0758d5572bbbca12eaadf86a6150fb79c949b06fae9921b9d04ffee56194bafa
+Size: 1740
+MD5sum: ecb03536cccf2804b707cdf31d0a15b7
+SHA1: 68ab6ac8074f426483908d010eefb1cbf5d8c60d
+SHA256: e045114d936376ce7a71d379538593be4cb6b5cb0f8782859113b9fd8e8be24f
