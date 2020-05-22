@@ -141,7 +141,7 @@ Section: System
 Depends: firmware (>= 10.0)
 Maintainer: Nguyen Huu Cong (PK3M)
 Filename: ./debs/com.pk3m.fakeios_1.01_135final.deb
-Size: 1740
-MD5sum: ecb03536cccf2804b707cdf31d0a15b7
-SHA1: 68ab6ac8074f426483908d010eefb1cbf5d8c60d
-SHA256: e045114d936376ce7a71d379538593be4cb6b5cb0f8782859113b9fd8e8be24f
+Size: 1780
+MD5sum: 4e57fb13b1700ab76c3402b08e82cae1
+SHA1: 77487bfb1ab85ccaed2c5e60f6daa356e909d9ca
+SHA256: 101303d46a670a80346e020a3476117cc316d090433e1a530c5e6a4185519f39
