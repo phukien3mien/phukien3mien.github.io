@@ -8,10 +8,10 @@ Section: System
 Depends: mobilesubstrate, firmware (>= 5.0)
 Maintainer: Nguyen Huu Cong (PK3M)
 Filename: ./debs/com.pk3m.fakeios_1.03.deb
-Size: 1772
-MD5sum: d5e4746e9576ea5bb9ab4debf1a15e47
-SHA1: 9e26e10827b331655c6f87288a6c2ef639f4dcd8
-SHA256: abafe64607cc060f832dba84308c34ef1f4324ae1c9a4fecfd4c3c927427160e
+Size: 1824
+MD5sum: 39dc60813500f89009ec2c4f55cd299c
+SHA1: 10968ecc37895e22d56dd4a9be41cd87d5575993
+SHA256: 46bcd41b69d0efdc3447343122fa04154b8d7141d7e16f1772804c0682b134e3
 
 Package: com.kurrt.safeshutdown
 Version: 1.60
