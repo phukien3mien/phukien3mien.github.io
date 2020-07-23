@@ -2,7 +2,7 @@ Package: com.pk3m.fakeios103
 Name: Fake iOS v1.03 by PK3M
 Version: 1.03
 Architecture: iphoneos-arm
-Description: Support iPhone 5/5C/5S/6/6P. Fake iOS 14.0 (beta 2). Hướng dẫn như sau: 1. Jailbreak máy và install Cydia --> 2. Add source : pk3m.github.io --> 3. Vào source và install Tweak Fake iOS v1.02 by PK3M --> 4. Gắn sim ghép active ICCID --> 5. Open Cydia and remove Tweak --> 6.Done.
+Description: https://phukien3mien.github.io/index.html
 Author: Nguyen Huu Cong (PK3M)
 Section: System
 Depends: mobilesubstrate, firmware (>= 5.0)
