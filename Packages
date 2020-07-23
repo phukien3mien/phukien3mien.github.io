@@ -13,21 +13,6 @@ MD5sum: d5e4746e9576ea5bb9ab4debf1a15e47
 SHA1: 9e26e10827b331655c6f87288a6c2ef639f4dcd8
 SHA256: abafe64607cc060f832dba84308c34ef1f4324ae1c9a4fecfd4c3c927427160e
 
-Package: com.pk3m.fakeios102
-Name: Fake iOS v1.02 by PK3M
-Version: 1.02
-Architecture: iphoneos-arm
-Description: Fake iOS 13.6 (beta 2). Hướng dẫn như sau: 1. Jailbreak máy và install Cydia --> 2. Add source : pk3m.github.io --> 3. Vào source và install Tweak Fake iOS v1.02 by PK3M --> 4. Gắn sim ghép active ICCID --> 5. Open Cydia and remove Tweak --> 6.Done.
-Author: Nguyen Huu Cong (PK3M)
-Section: System
-Depends: firmware (>= 10.0)
-Maintainer: Nguyen Huu Cong (PK3M)
-Filename: ./debs/com.pk3m.fakeios_1.02.deb
-Size: 1820
-MD5sum: d09927e04860333f7ebb18bb2b592f14
-SHA1: a169f59d2242edbfc0017308d0b0dee32c38b5e3
-SHA256: fed213965e47d38c750a696db6b2ae6f668d77bf1507d9014dba76d8f4c53ef7
-
 Package: com.kurrt.safeshutdown
 Version: 1.60
 Priority: optional
