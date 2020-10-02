@@ -10,8 +10,8 @@ Depends: mobilesubstrate, firmware (>= 5.0)
 Maintainer: Nguyen Huu Cong (PK3M)
 Filename: ./debs/com.pk3m.fakeios_1.05.deb
 Size: 1828
-MD5sum: 57A5BFEE6D667B094F91EAB94F8E02C5
-SHA1: 94FC42ED62FCFEFA42D9EB340EABEEFE1EC3CA29
+MD5sum: 57a5bfee6d667b094f91eab94f8e02c5
+SHA1: 94fc42ed62fcfefa42d9eb340eabeefe1ec3ca29
 
 Package: com.pk3m.fakeios103
 Name: Fake iOS v1.03 by PK3M
